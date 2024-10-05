@@ -1,0 +1,52 @@
+{
+  "base_url": "https://raw.githubusercontent.com/Hachimi-Hachimi/tl-vi/main/localized_data",
+  "zip_url": "https://codeload.github.com/Hachimi-Hachimi/tl-vi/zip/refs/heads/main",
+  "zip_dir": "tl-vi-main/localized_data",
+  "files": [
+    {
+      "path": "character_system_text_dict.json",
+      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
+      "size": 2
+    },
+    {
+      "path": "config.json",
+      "hash": "fb3d4ff9945ecb4a1136017d6a1c89556c167162d18870026ba67e399a116713",
+      "size": 1312
+    },
+    {
+      "path": "extra_asset_bundle_android",
+      "hash": "7936ecc658a5f3a084457d82b4b26b6335301c8f8cb854118fcd692cfb20351d",
+      "size": 4071695
+    },
+    {
+      "path": "extra_asset_bundle_windows",
+      "hash": "8b0eee4a81323a3b19b78e618fb56f2dc967d2b50b49d4ef088c4694f7f0d597",
+      "size": 4071695
+    },
+    {
+      "path": "hashed_dict.json",
+      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
+      "size": 2
+    },
+    {
+      "path": "localize_dict.json",
+      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
+      "size": 2
+    },
+    {
+      "path": "race_jikkyo_comment_dict.json",
+      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
+      "size": 2
+    },
+    {
+      "path": "race_jikkyo_message_dict.json",
+      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
+      "size": 2
+    },
+    {
+      "path": "text_data_dict.json",
+      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
+      "size": 2
+    }
+  ]
+}
