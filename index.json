@@ -4,6 +4,11 @@
   "zip_dir": "tl-vi-main/localized_data",
   "files": [
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_btn00/tx_uTex_fl_footer_btn00_0.diff.png",
+      "hash": "dfb821314eabbbaa43309357fdc22d760b23f5a81d12e10d2caa41172196b9a6",
+      "size": 60329
+    },
+    {
       "path": "character_system_text_dict.json",
       "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
       "size": 2
@@ -25,13 +30,13 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
-      "size": 2
+      "hash": "4ddfcd9ff832ff340b50352471640f0f52d1631616a1dee6d44909f6ece95430",
+      "size": 166
     },
     {
       "path": "localize_dict.json",
-      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
-      "size": 2
+      "hash": "a007d12b23ed4659c15b686687379abbe0752468be2172eabb0471d31196158e",
+      "size": 4113
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -45,8 +50,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "6e46dd10defc9b56c29a6ec56b508c21f54c08192194e4df25bf36f0c9c3c279",
-      "size": 2
+      "hash": "bb83903771514e7e42a8254ccdea563dba3d8f30bc7b79d636bbbdb7608f0473",
+      "size": 8432
     }
   ]
 }
